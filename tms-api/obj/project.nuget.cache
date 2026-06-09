@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xV7zq97EgVc=",
+  "success": true,
+  "projectFilePath": "/Users/suphasawatcomdee/Desktop/dotnet-tms-api/tms-api/tms-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/suphasawatcomdee/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/Users/suphasawatcomdee/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
